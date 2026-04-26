@@ -1,0 +1,11 @@
+Crime Type,City,Date,Time,Gender,Weapon
+Theft,Mumbai,2024-01-15,14:30:00,Male,Knife
+Robbery,Delhi,2024-01-14,22:45:00,Female,Gun
+Assault,Bangalore,2024-01-13,10:15:00,Male,Baseball Bat
+Murder,Chennai,2024-01-12,23:30:00,Female,Knife
+Fraud,Hyderabad,2024-01-11,09:00:00,Other,Poison
+Burglary,Pune,2024-01-10,03:00:00,Male,Stone
+Drug Trafficking,Kolkata,2024-01-09,18:20:00,Male,Gun
+Assault,Mumbai,2024-01-08,16:45:00,Female,Hammer
+Theft,Delhi,2024-01-07,12:00:00,Female,Knife
+Robbery,Bangalore,2024-01-06,20:30:00,Male,Sword
